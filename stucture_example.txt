@@ -1,0 +1,21 @@
+my_cool_project/
+    ├── README.md
+    ├── requirements.txt
+    ├── .gitignore
+    ├── src/
+    │   ├── __init__.py
+    │   ├── main.py
+    │   ├── core/
+    │   │   ├── __init__.py
+    │   │   └── logic.py
+    │   └── utils/
+    │       ├── __init__.py
+    │       └── helpers.py
+    ├── tests/
+    │   ├── __init__.py
+    │   └── test_logic.py
+    ├── docs/
+    │   └── index.md
+    └── data/
+        └── raw/
+        └── processed/
